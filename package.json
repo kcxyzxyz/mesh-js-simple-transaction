@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "@blockfrost/blockfrost-js": "^5.2.0",
+    "@meshsdk/core": "^1.5.2",
+    "dotenv": "^16.0.3"
+  }
+}
